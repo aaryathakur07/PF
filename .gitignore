@@ -1,0 +1,15 @@
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment files containing secrets
+.env
+.env.*
+!.env.example
